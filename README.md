@@ -1,5 +1,5 @@
 <!-- 🌌 Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3EB489,100:1E90FF&height=200&section=header&text=Suhail%20Moideen&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Suhail%20Moideen&fontSize=50&fontAlign=50&fontAlignY=40&color=0:3EB489,100:1E90FF&animation=twinkling&desc=🚀+Full+Stack+Developer+%7C+MERN+%7C+Flutter+%7C+Next.js&descAlign=50&descAlignY=65)
 
 <!-- 🔥 Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=3EB489&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Suhail+Moideen;Full+Stack+Developer;MERN+%2B+Flutter+%2B+Next.js;Always+Learning+New+Things)](https://git.io/typing-svg)
@@ -9,6 +9,8 @@
 # 👋 Hi, I'm Suhail Moideen  
 
 I'm a full-stack web developer passionate about building responsive, real-world applications with clean design and efficient functionality. I work primarily with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and have recently started building UIs with **Flutter** and **Dart**.  
+
+---
 
 ## 🌐 Featured Project  
 
@@ -40,10 +42,25 @@ A full-stack web application designed to connect skilled and unskilled laborers 
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuhailMoideen07&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhailMoideen07&layout=compact&theme=radical" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SuhailMoideen07&theme=radical&hide_border=false" height="180em"/>
+</p>
+
+---
+
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhail-moideen-7099942a4/?trk=opento_sprofile_goalscard)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuhailMoideen07)  
+
+---
 
 <!-- ⚡ Footer Animation -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:3EB489&height=150&section=footer)
