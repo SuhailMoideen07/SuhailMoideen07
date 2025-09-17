@@ -1,7 +1,5 @@
-<!-- 🌋 Flowing Lava Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/zsNwz8w/lava-flow.gif" alt="lava banner" width="100%">
-</p>
+<!-- 🌋 Lava Animated Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Suhail%20Moideen&fontSize=55&fontAlign=50&fontAlignY=40&color=0:FF4500,100:8B0000&animation=twinkling&desc=🚀+Full+Stack+Developer+%7C+MERN+%7C+Flutter+%7C+Next.js&descAlign=50&descAlignY=65&reversal=true)
 
 <!-- 🔥 Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=6000&pause=1200&color=FF4500&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Suhail+Moideen;Full+Stack+Developer;MERN+%2B+Flutter+%2B+Next.js;Always+Learning+New+Things)](https://git.io/typing-svg)
@@ -10,7 +8,7 @@
 
 # 👋 Hi, I'm Suhail Moideen  
 
-🔥 A full-stack web developer passionate about building **responsive, real-world applications** with clean design and efficient functionality.  
+🔥 I'm a full-stack web developer passionate about building **responsive, real-world applications** with clean design and efficient functionality.  
 💻 I mainly work with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and have recently started crafting UIs with **Flutter** and **Dart**.  
 
 ---
@@ -66,7 +64,5 @@ Built using **HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB**.
 
 ---
 
-<!-- 🌋 Flowing Lava Footer -->
-<p align="center">
-  <img src="https://i.ibb.co/zsNwz8w/lava-flow.gif" alt="lava footer" width="100%">
-</p>
+<!-- ⚡ Lava Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF4500&height=150&section=footer&reversal=true)
