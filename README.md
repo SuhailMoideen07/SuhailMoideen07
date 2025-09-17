@@ -45,13 +45,14 @@ A full-stack web application designed to connect skilled and unskilled laborers 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SuhailMoideen07&show_icons=true&theme=radical&cache_seconds=86400" height="180em"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SuhailMoideen07&layout=compact&theme=radical&cache_seconds=86400" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SuhailMoideen07&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhailMoideen07&layout=compact&theme=radical&count_private=true" height="180em"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SuhailMoideen07&theme=radical&hide_border=false" height="180em"/>
 </p>
+
 
 
 ---
