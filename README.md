@@ -1,49 +1,40 @@
-<!-- 🌌 Galaxy Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Suhail%20Moideen&fontSize=55&fontAlign=50&fontAlignY=40&color=0:8A2BE2,50:FF1493,100:00BFFF&animation=twinkling&desc=🚀+Full+Stack+Developer+%7C+MERN+%7C+Flutter+%7C+Next.js&descAlign=50&descAlignY=65)
+<!-- ⚡ Cyberpunk Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Suhail%20Moideen&fontSize=55&fontAlign=50&fontAlignY=40&color=0:00FFFF,100:FF00FF&animation=twinkling&desc=🚀+Full+Stack+Developer+%7C+MERN+%7C+Flutter+%7C+Next.js&descAlign=50&descAlignY=65)
 
-<!-- ✨ Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=6000&pause=1500&color=BA55D3&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Suhail+Moideen;Full+Stack+Developer;MERN+%2B+Flutter+%2B+Next.js;Exploring+Cosmic+Ideas)](https://git.io/typing-svg)
+<!-- 💜 Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=6000&pause=1500&color=FF00FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Suhail+Moideen;Full+Stack+Developer;MERN+%2B+Flutter+%2B+Next.js;Living+in+Cyberpunk+Mode)](https://git.io/typing-svg)
 
 ---
 
 # 👋 Hi, I'm Suhail Moideen  
 
-I'm a full-stack web developer passionate about building responsive, real-world applications with clean design and efficient functionality. I work primarily with the **MERN stack** and have recently started building UIs with **Flutter** and **Dart**.  
+A passionate developer building futuristic and efficient applications 🚀  
 
 ---
 
 ## 🌐 Featured Project  
-
-### 🔗 [WorkConnect - Labor Booking Platform](https://github.com/SuhailMoideen07/WorkConnect-Labor-Booking-Platform)  
-A full-stack web application designed to connect skilled and unskilled laborers with those needing help — featuring real-time task booking, worker profiles, and admin control.  
+[WorkConnect - Labor Booking Platform](https://github.com/SuhailMoideen07/WorkConnect-Labor-Booking-Platform)  
 
 ---
 
 ## 💼 Tech Stack  
 
-### 🚀 Frontend  
-React • Next.js • Flutter • HTML5 • CSS3  
-
-### ⚙️ Backend  
-Node.js • Express.js  
-
-### 🗄️ Database  
-MongoDB • PostgreSQL  
-
-### 💻 Languages  
-JavaScript • Dart  
+Frontend: React • Next.js • Flutter • HTML5 • CSS3  
+Backend: Node.js • Express.js  
+Database: MongoDB • PostgreSQL  
+Languages: JavaScript • Dart  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuhailMoideen07&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhailMoideen07&layout=compact&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SuhailMoideen07&show_icons=true&theme=neon&count_private=true&include_all_commits=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhailMoideen07&layout=compact&theme=neon" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SuhailMoideen07&theme=radical&hide_border=false" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=SuhailMoideen07&theme=neon&hide_border=false" height="180em"/>
 </p>
 
 ---
@@ -55,5 +46,5 @@ JavaScript • Dart
 
 ---
 
-<!-- 🌌 Galaxy Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:FF1493,100:8A2BE2&height=150&section=footer)
+<!-- ⚡ Cyberpunk Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=150&section=footer)
