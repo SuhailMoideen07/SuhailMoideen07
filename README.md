@@ -1,8 +1,8 @@
-<!-- 🌌 Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Suhail%20Moideen&fontSize=50&fontAlign=50&fontAlignY=40&color=0:3EB489,100:1E90FF&animation=twinkling&desc=🚀+Full+Stack+Developer+%7C+MERN+%7C+Flutter+%7C+Next.js&descAlign=50&descAlignY=65)
+<!-- 🌋 Animated Header (Lava Effect) -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Suhail%20Moideen&fontSize=55&fontAlign=50&fontAlignY=40&color=0:FF4500,100:8B0000&animation=twinkling&desc=🚀+Full+Stack+Developer+%7C+MERN+%7C+Flutter+%7C+Next.js&descAlign=50&descAlignY=65)
 
-<!-- 🔥 Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=3EB489&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Suhail+Moideen;Full+Stack+Developer;MERN+%2B+Flutter+%2B+Next.js;Always+Learning+New+Things)](https://git.io/typing-svg)
+<!-- 🔥 Typing Animation (Slower Blink) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=6000&pause=1500&color=FF4500&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Suhail+Moideen;Full+Stack+Developer;MERN+%2B+Flutter+%2B+Next.js;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
@@ -46,14 +46,12 @@ A full-stack web application designed to connect skilled and unskilled laborers 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuhailMoideen07&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhailMoideen07&layout=compact&theme=radical&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhailMoideen07&layout=compact&theme=radical" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SuhailMoideen07&theme=radical&hide_border=false" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=SuhailMoideen07&theme=radical&hide_border=false" height="180em"/>
 </p>
-
-
 
 ---
 
@@ -64,6 +62,5 @@ A full-stack web application designed to connect skilled and unskilled laborers 
 
 ---
 
-<!-- ⚡ Footer Animation -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:3EB489&height=150&section=footer)
-can u make this more attractive by slowing the title blink speed also more effect of lava instead of water or something
+<!-- 🌋 Lava Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF4500&height=150&section=footer)
