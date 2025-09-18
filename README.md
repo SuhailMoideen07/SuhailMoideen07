@@ -72,9 +72,14 @@ A full-stack platform to connect skilled/unskilled laborers with employers.
 
 ---
 
-## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SuhailMoideen07&theme=dark&hide_border=false)](https://git.io/streak-stats)
+## 📊 GitHub Streak  
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=SuhailMoideen07&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 
 
 ---
