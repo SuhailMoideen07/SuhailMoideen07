@@ -21,7 +21,7 @@ I love building **real-world applications** with **clean design**, **reliable ba
 
 ### 🔗 [WorkConnect - Labor Booking Platform](https://github.com/SuhailMoideen07/WorkConnect-Labor-Booking-Platform)  
 A full-stack platform to connect skilled/unskilled laborers with employers.  
-✨ Features real-time booking, worker profiles, and admin control.  
+✨ Features real-time booking, worker profiles, and admin panel.  
 🔧 Built with **HTML, CSS, JavaScript, Node.js, Express, MongoDB**.  
 
 ---
